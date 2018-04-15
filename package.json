@@ -1,0 +1,22 @@
+{
+  "name": "ufo",
+  "version": "1.0.0",
+  "description": "This is a webpage about aliens and that stuffs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "UFO",
+    "aliens",
+    "sigthseens"
+  ],
+  "author": "Santiago Chaustre And Randy Lancheros",
+  "license": "MIT",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
