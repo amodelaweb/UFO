@@ -1,0 +1,18 @@
+.bg-dark {
+    background-color: #948c79!important;
+}
+body {
+  padding-top: 54px;
+  font-family: "Bookman Old Style";
+font-size: 24px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+line-height: 26.4px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}

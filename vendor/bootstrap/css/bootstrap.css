@@ -5860,6 +5860,8 @@ button.close {
 }
 
 .carousel-item {
+  height: 100vh;
+  min-height: 300px;
   position: relative;
   display: none;
   -webkit-box-align: center;
@@ -8741,6 +8743,7 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important;
+  text-decoration-color: white;
 }
 
 @media (min-width: 576px) {
